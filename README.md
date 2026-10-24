@@ -1,5 +1,4 @@
-# 👑 SammeOS
-
+# 
 <img width="300" height="300" alt="crown" src="https://github.com/user-attachments/assets/04324545-a7b6-4fb9-b0a7-3c87abe013bf" /><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
@@ -19,7 +18,7 @@
     <circle cx="480" cy="140" r="24" fill="#FF2D95"/>
   </g>
 </svg>
-
+ SammeOS
 
 **An unofficial, fan-made, Ubuntu-based Linux distribution for Geometry Dash fans, inspired by the
 energy of KingSammelot's content.** Bright neon, cubes, spikes, portals, a crown, and a clean, fast,
